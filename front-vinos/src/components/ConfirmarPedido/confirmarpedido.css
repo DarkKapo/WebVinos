@@ -1,0 +1,23 @@
+.confirmarPago { 
+    background-color: #FABD1E;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+}
+
+.confirmarPedido {
+    background-color: #221EFA;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+}
+
+.enviarDatos {
+    background-color: #221EFA;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    padding: 10px;
+}

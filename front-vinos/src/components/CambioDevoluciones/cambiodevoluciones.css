@@ -1,0 +1,9 @@
+.containerCambioDevoluciones > p {
+    text-align: justify;
+    font-family: 'Roboto', sans-serif;
+}
+
+.containerCambioDevoluciones > h5 {
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+}

@@ -1,0 +1,27 @@
+h3 {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btnConfirmarDeposito {
+    background-color: rgb(221, 9, 9);
+    border: none;
+    border-radius: 20px;
+    color: rgba(240, 255, 255, 0.788);
+    padding: 10px;
+}
+
+.btnDepositoConfirmado {
+    background-color: green;
+    border: none;
+    border-radius: 20px;
+    color: rgba(240, 255, 255, 0.788);
+    padding: 10px;
+}

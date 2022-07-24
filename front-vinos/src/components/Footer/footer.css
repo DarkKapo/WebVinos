@@ -1,0 +1,36 @@
+footer{
+    margin-top:50px;
+    padding: 3.125rem;
+}
+
+footer i {
+    margin: 0 0.25em 0.5em 0.25em;
+}
+
+.oscuro {
+    background: #03351e;
+    color: #ffffff;
+}
+  
+.oscuro a{
+    color: #ffffff;
+    text-decoration: none;
+    margin: 10px;
+    padding-bottom: 20px;
+}
+.oscuro p{
+    color:#fff;
+    text-decoration: none;
+    margin: 10px;
+}
+
+#contacto {
+    text-align: center;
+    fill: #fff;
+    margin-top: 2rem;
+}
+
+.interesFooter{
+    display: inline-block;
+    box-sizing: border-box;
+}

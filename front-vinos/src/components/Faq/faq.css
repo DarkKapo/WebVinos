@@ -1,0 +1,11 @@
+.containerFaq {
+    text-align: justify;
+}
+
+.containerFaq > p {
+    font-family: 'Roboto', sans-serif;
+}
+
+.containerFaq > h5 {
+    font-family: 'Open Sans', sans-serif;
+}

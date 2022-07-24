@@ -1,0 +1,75 @@
+.texto-navbar
+{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    padding-right: 5px;
+    text-decoration: none;
+    transition: all 300ms ease 0ms;
+}
+
+.texto-navbar:hover 
+{
+    font-size: 2em;
+    color: white;
+    font-weight: bold;
+}
+
+.texto-iniciar-sesion
+{
+    color: whitesmoke;
+    padding-top: 6px;
+    margin-right: 10px;
+    text-decoration: none;
+    transition: all 300ms ease 0ms;
+}
+
+.texto-iniciar-sesion:hover
+{
+    color: whitesmoke;
+    font-size: 2em;
+    font-weight: bolder;
+}
+
+.nav-font
+{
+    background-color: #992385;
+}
+
+.ham{
+    color: red;
+    background-color: hsl(180, 50%, 50%);
+}
+
+.titulo-navbar
+{
+    color: aliceblue !important;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+.btnBuscar {
+    background-color: #992385 !important;
+    color: white !important;
+    border: none !important;
+    margin-left: 5px !important;
+}
+
+.btnBuscar:hover {
+    background-color: #0A283E !important;
+    border: none !important;
+    color: white !important;
+}
+
+.btnLogout {
+    padding-top: 1px !important;
+    padding-bottom: 2px !important;
+    margin-right: 6px;
+    background-color: #992385 !important;
+    border: none !important;
+}
+
+.logoutBTN {
+    background-color: #992385 !important;
+    border: none !important;
+}
