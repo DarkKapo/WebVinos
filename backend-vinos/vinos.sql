@@ -15,7 +15,7 @@ CREATE TABLE pedidos(pedido_id SERIAL PRIMARY KEY, codigo_pedido VARCHAR(12) NOT
 
 -- --Agregando datos de prueba
 -- --cliente
--- INSERT INTO usuarios(correo, password) VALUES ('admin@root.cl', '123');
+INSERT INTO administrador(email, password) VALUES ('admin@root.cl', '123');
 -- INSERT INTO usuarios(correo, password) VALUES ('user@root.cl', '123');
 -- INSERT INTO usuarios(correo, password) VALUES ('user1@root.cl', '123');
 -- INSERT INTO usuarios(correo, password) VALUES ('user2@root.cl', '123');
